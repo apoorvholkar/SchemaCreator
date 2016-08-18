@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/Git_Repository/Learn_Py/.idea/Learn_Py.iml" filepath="D:/Git_Repository/Learn_Py/.idea/Learn_Py.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Proj1.iml" filepath="$PROJECT_DIR$/.idea/Proj1.iml" />
+      <module fileurl="file://D:/Git_Repository/SchemaCreator/.idea/SchemaCreator.iml" filepath="D:/Git_Repository/SchemaCreator/.idea/SchemaCreator.iml" />
+      <module fileurl="file://D:/Git_Repository/CRI2Importer/.idea/rmicri.iml" filepath="D:/Git_Repository/CRI2Importer/.idea/rmicri.iml" />
+    </modules>
+  </component>
+</project>
